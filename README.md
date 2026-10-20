@@ -1,6 +1,6 @@
 <div align="center">
 
-<table><tr><td width="27%" align="center" valign="middle"><img src="./assets/chandan-portrait.jpg" width="220" alt="Original portrait of Chandan Kumar Sah Teli"/><br/><strong>B.Tech CSE Student · 2027</strong><br/>Aditya University</td><td width="73%" valign="middle"><img src="./hero.svg?v=3" alt="Animated AI backend developer hero" width="100%"/></td></tr></table>
+<table><tr><td width="27%" align="center" valign="middle"><img src="./assets/chandan-portrait.jpg" width="220" alt="Original portrait of Chandan Kumar Sah Teli"/><br/><strong>B.Tech CSE Student · 2027</strong><br/>Aditya University</td><td width="73%" valign="middle"><img src="./hero.svg?v=4" alt="Animated AI backend developer hero" width="100%"/></td></tr></table>
 
 <br/><br/>
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="./id-dashboard.svg?v=3" alt="Developer ID and engineering dashboard" width="100%"/>
+<img src="./id-dashboard.svg?v=4" alt="Developer ID and engineering dashboard" width="100%"/>
 
 <br/><br/>
 
