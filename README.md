@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero.svg?v=2" alt="Chandan Kumar Sah Teli — AI Backend Developer" width="100%"/>
+<table><tr><td width="27%" align="center" valign="middle"><img src="./assets/chandan-portrait.jpg" width="220" alt="Original portrait of Chandan Kumar Sah Teli"/><br/><strong>B.Tech CSE Student · 2027</strong><br/>Aditya University</td><td width="73%" valign="middle"><img src="./hero.svg?v=3" alt="Animated AI backend developer hero" width="100%"/></td></tr></table>
 
 <br/><br/>
 
@@ -8,11 +8,11 @@
 
 <br/><br/>
 
-<img src="./stack.svg?v=2" alt="Orbiting developer technology stack" width="100%"/>
+<img src="./stack.svg?v=3" alt="Orbiting developer technology stack" width="100%"/>
 
 <br/><br/>
 
-<img src="./id-dashboard.svg?v=2" alt="Developer ID and engineering dashboard" width="100%"/>
+<img src="./id-dashboard.svg?v=3" alt="Developer ID and engineering dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -59,6 +59,12 @@
 </div>
 
 ---
+
+### Personal portrait & student identity
+
+- **Original portrait asset:** [`assets/chandan-portrait.jpg`](./assets/chandan-portrait.jpg). The README links directly to your photo so it is never swapped for a generated avatar.
+- **Student badge:** B.Tech student · Computer Science & Engineering · Aditya University · Class of 2027. The visual badge is designed for the profile rather than a scan of your real ID card, keeping its barcode and student number private.
+- **Animated tech orbit:** Java, JavaScript, Python, Node.js, Express.js, React, HTML, CSS, QA testing, IntelliJ IDEA, VS Code, AI tools, Git, GitHub, GitHub Actions, Docker, Linux, Kubernetes (learning), MySQL and MongoDB.
 
 ### How the profile is built
 
